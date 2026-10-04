@@ -4,6 +4,8 @@ Claude Code mods (function-hook plugins). Each folder is one mod.
 
 ## usage-band
 
+<img width="807" height="132" alt="image" src="https://github.com/user-attachments/assets/ce3d4941-46a0-446b-a085-91e27f61ec22" />
+
 A usage ribbon above the prompt in the Claude Code desktop app (Code tab) and the terminal:
 
 - **5h** and **7d** limit pills: usage bar (green < 70%, yellow ≥ 70%, red ≥ 90%), a vertical line for how much of the window has passed, and the time left until reset.

@@ -1,0 +1,4 @@
+# Type declarations the engine writes per build (regenerate with /plugin-types)
+.claude/
+**/.claude-plugin/types/
+node_modules/

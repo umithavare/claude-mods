@@ -1,0 +1,7 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Usage ribbon above the prompt: 5h/7d limits, token totals and session cost as colored pills",
+  "author": { "name": "umithavare" },
+  "types": "./types/index.d.ts"
+}
